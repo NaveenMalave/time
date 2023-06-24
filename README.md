@@ -13,7 +13,7 @@
 
 
 
-[mit](https://img.shields.io/badge/License-MIT-blue.svg)(https://github.com/NaveenMalave/time/blob/main/LICENSE.txt)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NaveenMalave/time/blob/main/LICENSE.txt)
 
   ## Authors
 
