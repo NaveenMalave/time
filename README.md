@@ -9,11 +9,11 @@
 
 - CSS
   
-## License![AUR license](https://img.shields.io/badge/License-MIT-blue.svg)
+## License
 
 
 
-[MIT](https://github.com/NaveenMalave/time/blob/main/LICENSE.txt)
+(https://img.shields.io/badge/License-MIT-blue.svg)(https://github.com/NaveenMalave/time/blob/main/LICENSE.txt)
 
   ## Authors
 
