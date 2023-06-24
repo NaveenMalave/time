@@ -8,10 +8,10 @@
 - HTML
 
 - CSS
-LICENSE.txt
+  
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/NaveenMalave/time/blob/main/LICENSE.txt)
 
   ## Authors
 
