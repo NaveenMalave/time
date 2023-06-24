@@ -9,7 +9,8 @@
 
 - CSS
   
-## License(https://img.shields.io/aur/license/:packageName)
+## License![AUR license](https://img.shields.io/aur/license/:packageName)
+
 
 
 [MIT](https://github.com/NaveenMalave/time/blob/main/LICENSE.txt)
