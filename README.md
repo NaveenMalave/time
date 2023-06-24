@@ -9,7 +9,7 @@
 
 - CSS
   
-## License![AUR license](https://img.shields.io/aur/license/:packageName)
+## License![AUR license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
 
